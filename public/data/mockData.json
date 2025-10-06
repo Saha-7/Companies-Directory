@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "name": "Aimbo",
+    "location": "Vietnam",
+    "industry": "Electronic Components",
+    "employees": 50,
+    "revenue": 8
+  },
+  {
+    "id": 2,
+    "name": "Tagcat",
+    "location": "Japan",
+    "industry": "Construction/Ag Equipment/Trucks",
+    "employees": 62,
+    "revenue": 23
+  },
+  {
+    "id": 3,
+    "name": "Zoonder",
+    "location": "China",
+    "industry": "Consumer Electronics/Appliances",
+    "employees": 39,
+    "revenue": 31
+  },
+  {
+    "id": 4,
+    "name": "Zoonder",
+    "location": "Indonesia",
+    "industry": "Auto Parts:O.E.M.",
+    "employees": 43,
+    "revenue": 61
+  },
+  {
+    "id": 5,
+    "name": "Topicshots",
+    "location": "Poland",
+    "industry": "n/a",
+    "employees": 21,
+    "revenue": 15
+  },
+  {
+    "id": 6,
+    "name": "Linkbridge",
+    "location": "China",
+    "industry": "Diversified Financial Services",
+    "employees": 45,
+    "revenue": 28
+  },
+  {
+    "id": 7,
+    "name": "Thoughtmix",
+    "location": "Slovenia",
+    "industry": "Finance: Consumer Services",
+    "employees": 33,
+    "revenue": 6
+  },
+  {
+    "id": 8,
+    "name": "Oozz",
+    "location": "China",
+    "industry": "Oil & Gas Production",
+    "employees": 32,
+    "revenue": 53
+  },
+  {
+    "id": 9,
+    "name": "Mydo",
+    "location": "Finland",
+    "industry": "Life Insurance",
+    "employees": 52,
+    "revenue": 6
+  },
+  {
+    "id": 10,
+    "name": "Skilith",
+    "location": "Nigeria",
+    "industry": "Construction/Ag Equipment/Trucks",
+    "employees": 56,
+    "revenue": 70
+  },
+  {
+    "id": 11,
+    "name": "Fiveclub",
+    "location": "Russia",
+    "industry": "Finance: Consumer Services",
+    "employees": 44,
+    "revenue": 26
+  },
+  {
+    "id": 12,
+    "name": "Innojam",
+    "location": "Bulgaria",
+    "industry": "Telecommunications Equipment",
+    "employees": 26,
+    "revenue": 16
+  },
+  {
+    "id": 13,
+    "name": "Blognation",
+    "location": "Georgia",
+    "industry": "Consumer Electronics/Appliances",
+    "employees": 7,
+    "revenue": 69
+  },
+  {
+    "id": 14,
+    "name": "Jaloo",
+    "location": "Vietnam",
+    "industry": "n/a",
+    "employees": 25,
+    "revenue": 91
+  },
+  {
+    "id": 15,
+    "name": "Yoveo",
+    "location": "China",
+    "industry": "Other Consumer Services",
+    "employees": 47,
+    "revenue": 31
+  },
+  {
+    "id": 16,
+    "name": "Avavee",
+    "location": "Poland",
+    "industry": "n/a",
+    "employees": 25,
+    "revenue": 72
+  },
+  {
+    "id": 17,
+    "name": "Geba",
+    "location": "Brazil",
+    "industry": "n/a",
+    "employees": 28,
+    "revenue": 72
+  },
+  {
+    "id": 18,
+    "name": "Shufflester",
+    "location": "Colombia",
+    "industry": "Major Pharmaceuticals",
+    "employees": 3,
+    "revenue": 61
+  },
+  {
+    "id": 19,
+    "name": "Babbleopia",
+    "location": "China",
+    "industry": "n/a",
+    "employees": 57,
+    "revenue": 66
+  },
+  {
+    "id": 20,
+    "name": "Zooxo",
+    "location": "Philippines",
+    "industry": "EDP Services",
+    "employees": 54,
+    "revenue": 7
+  },
+  {
+    "id": 21,
+    "name": "Kamba",
+    "location": "Indonesia",
+    "industry": "n/a",
+    "employees": 26,
+    "revenue": 88
+  },
+  {
+    "id": 22,
+    "name": "Jabbersphere",
+    "location": "Indonesia",
+    "industry": "Restaurants",
+    "employees": 27,
+    "revenue": 97
+  },
+  {
+    "id": 23,
+    "name": "Gabcube",
+    "location": "Russia",
+    "industry": "n/a",
+    "employees": 70,
+    "revenue": 22
+  },
+  {
+    "id": 24,
+    "name": "Thoughtsphere",
+    "location": "Sweden",
+    "industry": "Property-Casualty Insurers",
+    "employees": 82,
+    "revenue": 2
+  },
+  {
+    "id": 25,
+    "name": "Avaveo",
+    "location": "Brazil",
+    "industry": "Savings Institutions",
+    "employees": 61,
+    "revenue": 59
+  },
+  {
+    "id": 26,
+    "name": "Jetpulse",
+    "location": "China",
+    "industry": "Major Banks",
+    "employees": 87,
+    "revenue": 91
+  },
+  {
+    "id": 27,
+    "name": "Cogibox",
+    "location": "Bulgaria",
+    "industry": "Major Pharmaceuticals",
+    "employees": 97,
+    "revenue": 96
+  },
+  {
+    "id": 28,
+    "name": "Kayveo",
+    "location": "Russia",
+    "industry": "Real Estate",
+    "employees": 76,
+    "revenue": 35
+  },
+  {
+    "id": 29,
+    "name": "Aimbu",
+    "location": "Nigeria",
+    "industry": "Investment Bankers/Brokers/Service",
+    "employees": 99,
+    "revenue": 42
+  },
+  {
+    "id": 30,
+    "name": "Ozu",
+    "location": "Venezuela",
+    "industry": "n/a",
+    "employees": 86,
+    "revenue": 70
+  },
+  {
+    "id": 31,
+    "name": "Skynoodle",
+    "location": "Brazil",
+    "industry": "Industrial Specialties",
+    "employees": 66,
+    "revenue": 94
+  },
+  {
+    "id": 32,
+    "name": "Zoombeat",
+    "location": "Portugal",
+    "industry": "n/a",
+    "employees": 60,
+    "revenue": 11
+  },
+  {
+    "id": 33,
+    "name": "Yodoo",
+    "location": "China",
+    "industry": "Accident &Health Insurance",
+    "employees": 75,
+    "revenue": 68
+  },
+  {
+    "id": 34,
+    "name": "Jabberstorm",
+    "location": "Indonesia",
+    "industry": "Investment Bankers/Brokers/Service",
+    "employees": 13,
+    "revenue": 91
+  },
+  {
+    "id": 35,
+    "name": "Oyonder",
+    "location": "Japan",
+    "industry": "n/a",
+    "employees": 13,
+    "revenue": 17
+  },
+  {
+    "id": 36,
+    "name": "Realbuzz",
+    "location": "Indonesia",
+    "industry": "Homebuilding",
+    "employees": 1,
+    "revenue": 17
+  },
+  {
+    "id": 37,
+    "name": "Feedmix",
+    "location": "China",
+    "industry": "Power Generation",
+    "employees": 61,
+    "revenue": 31
+  },
+  {
+    "id": 38,
+    "name": "Skimia",
+    "location": "Indonesia",
+    "industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances",
+    "employees": 68,
+    "revenue": 49
+  },
+  {
+    "id": 39,
+    "name": "Yodo",
+    "location": "Sudan",
+    "industry": "Finance: Consumer Services",
+    "employees": 7,
+    "revenue": 66
+  },
+  {
+    "id": 40,
+    "name": "Youspan",
+    "location": "Belize",
+    "industry": "Natural Gas Distribution",
+    "employees": 20,
+    "revenue": 78
+  },
+  {
+    "id": 41,
+    "name": "Plajo",
+    "location": "Nigeria",
+    "industry": "n/a",
+    "employees": 78,
+    "revenue": 36
+  },
+  {
+    "id": 42,
+    "name": "InnoZ",
+    "location": "China",
+    "industry": "Military/Government/Technical",
+    "employees": 79,
+    "revenue": 82
+  },
+  {
+    "id": 43,
+    "name": "Wikizz",
+    "location": "China",
+    "industry": "Major Pharmaceuticals",
+    "employees": 27,
+    "revenue": 17
+  },
+  {
+    "id": 44,
+    "name": "Skibox",
+    "location": "Indonesia",
+    "industry": "Restaurants",
+    "employees": 86,
+    "revenue": 93
+  },
+  {
+    "id": 45,
+    "name": "Youopia",
+    "location": "Iran",
+    "industry": "Major Pharmaceuticals",
+    "employees": 17,
+    "revenue": 20
+  },
+  {
+    "id": 46,
+    "name": "Centidel",
+    "location": "Paraguay",
+    "industry": "Major Chemicals",
+    "employees": 48,
+    "revenue": 82
+  },
+  {
+    "id": 47,
+    "name": "Buzzdog",
+    "location": "Kenya",
+    "industry": "n/a",
+    "employees": 79,
+    "revenue": 54
+  },
+  {
+    "id": 48,
+    "name": "Feedspan",
+    "location": "Iran",
+    "industry": "Industrial Machinery/Components",
+    "employees": 80,
+    "revenue": 6
+  },
+  {
+    "id": 49,
+    "name": "Quaxo",
+    "location": "Sri Lanka",
+    "industry": "Hospital/Nursing Management",
+    "employees": 63,
+    "revenue": 97
+  },
+  {
+    "id": 50,
+    "name": "Livefish",
+    "location": "Thailand",
+    "industry": "Computer Software: Prepackaged Software",
+    "employees": 90,
+    "revenue": 71
+  },
+  {
+    "id": 51,
+    "name": "Dynabox",
+    "location": "Portugal",
+    "industry": "Major Banks",
+    "employees": 69,
+    "revenue": 26
+  },
+  {
+    "id": 52,
+    "name": "Yacero",
+    "location": "Indonesia",
+    "industry": "Major Banks",
+    "employees": 64,
+    "revenue": 42
+  },
+  {
+    "id": 53,
+    "name": "Youspan",
+    "location": "France",
+    "industry": "Major Pharmaceuticals",
+    "employees": 48,
+    "revenue": 93
+  },
+  {
+    "id": 54,
+    "name": "Rhyzio",
+    "location": "Cuba",
+    "industry": "Other Specialty Stores",
+    "employees": 19,
+    "revenue": 69
+  },
+  {
+    "id": 55,
+    "name": "Wikivu",
+    "location": "China",
+    "industry": "Property-Casualty Insurers",
+    "employees": 35,
+    "revenue": 75
+  },
+  {
+    "id": 56,
+    "name": "Aimbo",
+    "location": "China",
+    "industry": "n/a",
+    "employees": 78,
+    "revenue": 70
+  },
+  {
+    "id": 57,
+    "name": "Oyonder",
+    "location": "Peru",
+    "industry": "Real Estate Investment Trusts",
+    "employees": 96,
+    "revenue": 99
+  },
+  {
+    "id": 58,
+    "name": "Devpoint",
+    "location": "Japan",
+    "industry": "Major Pharmaceuticals",
+    "employees": 12,
+    "revenue": 6
+  },
+  {
+    "id": 59,
+    "name": "Oyonder",
+    "location": "Peru",
+    "industry": "Real Estate Investment Trusts",
+    "employees": 27,
+    "revenue": 1
+  },
+  {
+    "id": 60,
+    "name": "Lazz",
+    "location": "China",
+    "industry": "Real Estate Investment Trusts",
+    "employees": 97,
+    "revenue": 82
+  },
+  {
+    "id": 61,
+    "name": "Yakijo",
+    "location": "Colombia",
+    "industry": "Other Specialty Stores",
+    "employees": 37,
+    "revenue": 62
+  },
+  {
+    "id": 62,
+    "name": "Voomm",
+    "location": "Togo",
+    "industry": "Major Banks",
+    "employees": 71,
+    "revenue": 91
+  },
+  {
+    "id": 63,
+    "name": "Mydo",
+    "location": "Hungary",
+    "industry": "Industrial Machinery/Components",
+    "employees": 100,
+    "revenue": 49
+  },
+  {
+    "id": 64,
+    "name": "Demivee",
+    "location": "Sweden",
+    "industry": "Major Banks",
+    "employees": 49,
+    "revenue": 69
+  },
+  {
+    "id": 65,
+    "name": "Leenti",
+    "location": "Bahamas",
+    "industry": "Telecommunications Equipment",
+    "employees": 55,
+    "revenue": 12
+  },
+  {
+    "id": 66,
+    "name": "Eayo",
+    "location": "Mexico",
+    "industry": "Oil & Gas Production",
+    "employees": 84,
+    "revenue": 68
+  },
+  {
+    "id": 67,
+    "name": "Babblestorm",
+    "location": "Indonesia",
+    "industry": "Telecommunications Equipment",
+    "employees": 43,
+    "revenue": 75
+  },
+  {
+    "id": 68,
+    "name": "Yadel",
+    "location": "Indonesia",
+    "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+    "employees": 62,
+    "revenue": 99
+  },
+  {
+    "id": 69,
+    "name": "Innojam",
+    "location": "South Africa",
+    "industry": "Investment Bankers/Brokers/Service",
+    "employees": 16,
+    "revenue": 59
+  },
+  {
+    "id": 70,
+    "name": "Divanoodle",
+    "location": "Philippines",
+    "industry": "Department/Specialty Retail Stores",
+    "employees": 25,
+    "revenue": 13
+  },
+  {
+    "id": 71,
+    "name": "Eazzy",
+    "location": "Indonesia",
+    "industry": "Metal Fabrications",
+    "employees": 68,
+    "revenue": 4
+  },
+  {
+    "id": 72,
+    "name": "Tanoodle",
+    "location": "Peru",
+    "industry": "Water Supply",
+    "employees": 41,
+    "revenue": 20
+  },
+  {
+    "id": 73,
+    "name": "Wordpedia",
+    "location": "Czech Republic",
+    "industry": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)",
+    "employees": 73,
+    "revenue": 22
+  },
+  {
+    "id": 74,
+    "name": "Skibox",
+    "location": "Indonesia",
+    "industry": "Oil & Gas Production",
+    "employees": 74,
+    "revenue": 67
+  },
+  {
+    "id": 75,
+    "name": "Jaxspan",
+    "location": "Brazil",
+    "industry": "Real Estate Investment Trusts",
+    "employees": 8,
+    "revenue": 18
+  },
+  {
+    "id": 76,
+    "name": "Wikido",
+    "location": "Portugal",
+    "industry": "Real Estate",
+    "employees": 31,
+    "revenue": 67
+  },
+  {
+    "id": 77,
+    "name": "Zoombeat",
+    "location": "Peru",
+    "industry": "Auto Parts:O.E.M.",
+    "employees": 42,
+    "revenue": 77
+  },
+  {
+    "id": 78,
+    "name": "Avamm",
+    "location": "China",
+    "industry": "Professional Services",
+    "employees": 47,
+    "revenue": 55
+  },
+  {
+    "id": 79,
+    "name": "Topdrive",
+    "location": "Philippines",
+    "industry": "Business Services",
+    "employees": 83,
+    "revenue": 50
+  },
+  {
+    "id": 80,
+    "name": "Wordware",
+    "location": "Brazil",
+    "industry": "RETAIL: Building Materials",
+    "employees": 90,
+    "revenue": 8
+  },
+  {
+    "id": 81,
+    "name": "Zazio",
+    "location": "Indonesia",
+    "industry": "Commercial Banks",
+    "employees": 10,
+    "revenue": 62
+  },
+  {
+    "id": 82,
+    "name": "Wordpedia",
+    "location": "Indonesia",
+    "industry": "Radio And Television Broadcasting And Communications Equipment",
+    "employees": 20,
+    "revenue": 41
+  },
+  {
+    "id": 83,
+    "name": "Meevee",
+    "location": "Argentina",
+    "industry": "Computer Manufacturing",
+    "employees": 34,
+    "revenue": 15
+  },
+  {
+    "id": 84,
+    "name": "Eazzy",
+    "location": "Kazakhstan",
+    "industry": "Major Banks",
+    "employees": 41,
+    "revenue": 35
+  },
+  {
+    "id": 85,
+    "name": "Snaptags",
+    "location": "Laos",
+    "industry": "Computer Software: Prepackaged Software",
+    "employees": 97,
+    "revenue": 72
+  },
+  {
+    "id": 86,
+    "name": "Gabvine",
+    "location": "Poland",
+    "industry": "n/a",
+    "employees": 52,
+    "revenue": 51
+  },
+  {
+    "id": 87,
+    "name": "Youfeed",
+    "location": "Philippines",
+    "industry": "Major Pharmaceuticals",
+    "employees": 18,
+    "revenue": 72
+  },
+  {
+    "id": 88,
+    "name": "Dabtype",
+    "location": "Philippines",
+    "industry": "Marine Transportation",
+    "employees": 33,
+    "revenue": 20
+  },
+  {
+    "id": 89,
+    "name": "Fiveclub",
+    "location": "Indonesia",
+    "industry": "Farming/Seeds/Milling",
+    "employees": 42,
+    "revenue": 60
+  },
+  {
+    "id": 90,
+    "name": "Gabvine",
+    "location": "Indonesia",
+    "industry": "n/a",
+    "employees": 52,
+    "revenue": 57
+  },
+  {
+    "id": 91,
+    "name": "Yakidoo",
+    "location": "Russia",
+    "industry": "n/a",
+    "employees": 7,
+    "revenue": 77
+  },
+  {
+    "id": 92,
+    "name": "Einti",
+    "location": "Zambia",
+    "industry": "Business Services",
+    "employees": 92,
+    "revenue": 20
+  },
+  {
+    "id": 93,
+    "name": "Layo",
+    "location": "Nigeria",
+    "industry": "Property-Casualty Insurers",
+    "employees": 71,
+    "revenue": 54
+  },
+  {
+    "id": 94,
+    "name": "Npath",
+    "location": "Republic of the Congo",
+    "industry": "Major Pharmaceuticals",
+    "employees": 32,
+    "revenue": 38
+  },
+  {
+    "id": 95,
+    "name": "Linkbridge",
+    "location": "Denmark",
+    "industry": "Major Pharmaceuticals",
+    "employees": 70,
+    "revenue": 8
+  },
+  {
+    "id": 96,
+    "name": "Rhyloo",
+    "location": "Philippines",
+    "industry": "EDP Services",
+    "employees": 96,
+    "revenue": 69
+  },
+  {
+    "id": 97,
+    "name": "Aibox",
+    "location": "Thailand",
+    "industry": "Investment Bankers/Brokers/Service",
+    "employees": 78,
+    "revenue": 56
+  },
+  {
+    "id": 98,
+    "name": "Podcat",
+    "location": "Vietnam",
+    "industry": "Semiconductors",
+    "employees": 43,
+    "revenue": 98
+  },
+  {
+    "id": 99,
+    "name": "Feednation",
+    "location": "Malta",
+    "industry": "Major Banks",
+    "employees": 22,
+    "revenue": 21
+  },
+  {
+    "id": 100,
+    "name": "Tagtune",
+    "location": "Mexico",
+    "industry": "Trucking Freight/Courier Services",
+    "employees": 94,
+    "revenue": 8
+  },
+  {
+    "id": 101,
+    "name": "Zoovu",
+    "location": "Tajikistan",
+    "industry": "Pollution Control Equipment",
+    "employees": 30,
+    "revenue": 87
+  },
+  {
+    "id": 102,
+    "name": "Cogidoo",
+    "location": "Brazil",
+    "industry": "n/a",
+    "employees": 74,
+    "revenue": 60
+  },
+  {
+    "id": 103,
+    "name": "Topicstorm",
+    "location": "Portugal",
+    "industry": "Industrial Machinery/Components",
+    "employees": 40,
+    "revenue": 59
+  },
+  {
+    "id": 104,
+    "name": "Skinder",
+    "location": "Brazil",
+    "industry": "n/a",
+    "employees": 64,
+    "revenue": 80
+  },
+  {
+    "id": 105,
+    "name": "Rhyloo",
+    "location": "Brazil",
+    "industry": "Plastic Products",
+    "employees": 41,
+    "revenue": 18
+  },
+  {
+    "id": 106,
+    "name": "Plajo",
+    "location": "Portugal",
+    "industry": "Power Generation",
+    "employees": 35,
+    "revenue": 38
+  },
+  {
+    "id": 107,
+    "name": "Cogibox",
+    "location": "South Korea",
+    "industry": "Real Estate Investment Trusts",
+    "employees": 13,
+    "revenue": 82
+  },
+  {
+    "id": 108,
+    "name": "Talane",
+    "location": "Mexico",
+    "industry": "Industrial Machinery/Components",
+    "employees": 75,
+    "revenue": 21
+  },
+  {
+    "id": 109,
+    "name": "Dabshots",
+    "location": "Latvia",
+    "industry": "Major Pharmaceuticals",
+    "employees": 17,
+    "revenue": 11
+  },
+  {
+    "id": 110,
+    "name": "Wordpedia",
+    "location": "Thailand",
+    "industry": "n/a",
+    "employees": 94,
+    "revenue": 52
+  },
+  {
+    "id": 111,
+    "name": "Buzzbean",
+    "location": "Peru",
+    "industry": "EDP Services",
+    "employees": 10,
+    "revenue": 95
+  },
+  {
+    "id": 112,
+    "name": "Skidoo",
+    "location": "Nepal",
+    "industry": "n/a",
+    "employees": 2,
+    "revenue": 94
+  },
+  {
+    "id": 113,
+    "name": "Skippad",
+    "location": "Costa Rica",
+    "industry": "Other Specialty Stores",
+    "employees": 42,
+    "revenue": 29
+  },
+  {
+    "id": 114,
+    "name": "Aibox",
+    "location": "Honduras",
+    "industry": "Property-Casualty Insurers",
+    "employees": 2,
+    "revenue": 95
+  },
+  {
+    "id": 115,
+    "name": "Midel",
+    "location": "Morocco",
+    "industry": "n/a",
+    "employees": 73,
+    "revenue": 84
+  },
+  {
+    "id": 116,
+    "name": "Chatterbridge",
+    "location": "Poland",
+    "industry": "n/a",
+    "employees": 26,
+    "revenue": 71
+  },
+  {
+    "id": 117,
+    "name": "Gabvine",
+    "location": "Argentina",
+    "industry": "Automotive Aftermarket",
+    "employees": 3,
+    "revenue": 62
+  },
+  {
+    "id": 118,
+    "name": "Quamba",
+    "location": "Cuba",
+    "industry": "n/a",
+    "employees": 46,
+    "revenue": 87
+  },
+  {
+    "id": 119,
+    "name": "Dabvine",
+    "location": "Greece",
+    "industry": "Business Services",
+    "employees": 62,
+    "revenue": 49
+  },
+  {
+    "id": 120,
+    "name": "Wordpedia",
+    "location": "Kuwait",
+    "industry": "Savings Institutions",
+    "employees": 88,
+    "revenue": 69
+  },
+  {
+    "id": 121,
+    "name": "Babbleset",
+    "location": "Costa Rica",
+    "industry": "Clothing/Shoe/Accessory Stores",
+    "employees": 72,
+    "revenue": 87
+  },
+  {
+    "id": 122,
+    "name": "Buzzdog",
+    "location": "Sweden",
+    "industry": "Major Banks",
+    "employees": 47,
+    "revenue": 61
+  },
+  {
+    "id": 123,
+    "name": "Skipstorm",
+    "location": "China",
+    "industry": "Medical/Dental Instruments",
+    "employees": 31,
+    "revenue": 17
+  },
+  {
+    "id": 124,
+    "name": "Dynabox",
+    "location": "Russia",
+    "industry": "n/a",
+    "employees": 57,
+    "revenue": 26
+  },
+  {
+    "id": 125,
+    "name": "Photojam",
+    "location": "Dominican Republic",
+    "industry": "Industrial Machinery/Components",
+    "employees": 17,
+    "revenue": 3
+  },
+  {
+    "id": 126,
+    "name": "Browsezoom",
+    "location": "Finland",
+    "industry": "n/a",
+    "employees": 76,
+    "revenue": 4
+  },
+  {
+    "id": 127,
+    "name": "Rhynyx",
+    "location": "Serbia",
+    "industry": "Biotechnology: Laboratory Analytical Instruments",
+    "employees": 16,
+    "revenue": 35
+  },
+  {
+    "id": 128,
+    "name": "Wikivu",
+    "location": "Portugal",
+    "industry": "Radio And Television Broadcasting And Communications Equipment",
+    "employees": 44,
+    "revenue": 43
+  },
+  {
+    "id": 129,
+    "name": "Babbleset",
+    "location": "Mexico",
+    "industry": "Major Pharmaceuticals",
+    "employees": 75,
+    "revenue": 69
+  },
+  {
+    "id": 130,
+    "name": "Aimbu",
+    "location": "United States",
+    "industry": "n/a",
+    "employees": 21,
+    "revenue": 72
+  },
+  {
+    "id": 131,
+    "name": "Plambee",
+    "location": "Indonesia",
+    "industry": "Computer Software: Programming, Data Processing",
+    "employees": 1,
+    "revenue": 60
+  },
+  {
+    "id": 132,
+    "name": "Babbleopia",
+    "location": "United States",
+    "industry": "n/a",
+    "employees": 90,
+    "revenue": 86
+  },
+  {
+    "id": 133,
+    "name": "Tagchat",
+    "location": "Ukraine",
+    "industry": "Broadcasting",
+    "employees": 3,
+    "revenue": 92
+  },
+  {
+    "id": 134,
+    "name": "Aimbo",
+    "location": "Palestinian Territory",
+    "industry": "n/a",
+    "employees": 85,
+    "revenue": 34
+  },
+  {
+    "id": 135,
+    "name": "Geba",
+    "location": "South Africa",
+    "industry": "Motor Vehicles",
+    "employees": 28,
+    "revenue": 62
+  },
+  {
+    "id": 136,
+    "name": "Photobug",
+    "location": "Indonesia",
+    "industry": "n/a",
+    "employees": 75,
+    "revenue": 49
+  },
+  {
+    "id": 137,
+    "name": "Leexo",
+    "location": "Cameroon",
+    "industry": "Natural Gas Distribution",
+    "employees": 38,
+    "revenue": 57
+  },
+  {
+    "id": 138,
+    "name": "Realmix",
+    "location": "Colombia",
+    "industry": "Office Equipment/Supplies/Services",
+    "employees": 37,
+    "revenue": 87
+  },
+  {
+    "id": 139,
+    "name": "Eadel",
+    "location": "China",
+    "industry": "EDP Services",
+    "employees": 47,
+    "revenue": 34
+  },
+  {
+    "id": 140,
+    "name": "Youtags",
+    "location": "United States",
+    "industry": "Finance: Consumer Services",
+    "employees": 36,
+    "revenue": 50
+  },
+  {
+    "id": 141,
+    "name": "Realmix",
+    "location": "Indonesia",
+    "industry": "Homebuilding",
+    "employees": 60,
+    "revenue": 68
+  },
+  {
+    "id": 142,
+    "name": "Tavu",
+    "location": "China",
+    "industry": "Life Insurance",
+    "employees": 59,
+    "revenue": 85
+  },
+  {
+    "id": 143,
+    "name": "Browsezoom",
+    "location": "China",
+    "industry": "n/a",
+    "employees": 87,
+    "revenue": 47
+  },
+  {
+    "id": 144,
+    "name": "Flashpoint",
+    "location": "Philippines",
+    "industry": "Hotels/Resorts",
+    "employees": 41,
+    "revenue": 34
+  },
+  {
+    "id": 145,
+    "name": "Jabbersphere",
+    "location": "Indonesia",
+    "industry": "Industrial Machinery/Components",
+    "employees": 33,
+    "revenue": 97
+  },
+  {
+    "id": 146,
+    "name": "Mudo",
+    "location": "Guatemala",
+    "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+    "employees": 2,
+    "revenue": 36
+  },
+  {
+    "id": 147,
+    "name": "Twinder",
+    "location": "Portugal",
+    "industry": "Military/Government/Technical",
+    "employees": 56,
+    "revenue": 76
+  },
+  {
+    "id": 148,
+    "name": "Skynoodle",
+    "location": "Venezuela",
+    "industry": "Industrial Machinery/Components",
+    "employees": 76,
+    "revenue": 37
+  },
+  {
+    "id": 149,
+    "name": "Twitterworks",
+    "location": "Portugal",
+    "industry": "Metal Fabrications",
+    "employees": 99,
+    "revenue": 27
+  },
+  {
+    "id": 150,
+    "name": "Brainlounge",
+    "location": "Brazil",
+    "industry": "Auto Parts:O.E.M.",
+    "employees": 92,
+    "revenue": 80
+  },
+  {
+    "id": 151,
+    "name": "Ntags",
+    "location": "Russia",
+    "industry": "n/a",
+    "employees": 44,
+    "revenue": 89
+  },
+  {
+    "id": 152,
+    "name": "Quimm",
+    "location": "Peru",
+    "industry": "Major Pharmaceuticals",
+    "employees": 86,
+    "revenue": 48
+  },
+  {
+    "id": 153,
+    "name": "Wordpedia",
+    "location": "Indonesia",
+    "industry": "Computer Software: Prepackaged Software",
+    "employees": 43,
+    "revenue": 62
+  },
+  {
+    "id": 154,
+    "name": "Brainlounge",
+    "location": "Indonesia",
+    "industry": "n/a",
+    "employees": 34,
+    "revenue": 11
+  },
+  {
+    "id": 155,
+    "name": "Youspan",
+    "location": "Russia",
+    "industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+    "employees": 32,
+    "revenue": 65
+  },
+  {
+    "id": 156,
+    "name": "Lazz",
+    "location": "Brazil",
+    "industry": "Real Estate Investment Trusts",
+    "employees": 70,
+    "revenue": 41
+  },
+  {
+    "id": 157,
+    "name": "Jabbersphere",
+    "location": "Brazil",
+    "industry": "Oil & Gas Production",
+    "employees": 73,
+    "revenue": 74
+  },
+  {
+    "id": 158,
+    "name": "LiveZ",
+    "location": "Tunisia",
+    "industry": "Catalog/Specialty Distribution",
+    "employees": 42,
+    "revenue": 89
+  },
+  {
+    "id": 159,
+    "name": "Trunyx",
+    "location": "Russia",
+    "industry": "Electric Utilities: Central",
+    "employees": 90,
+    "revenue": 9
+  },
+  {
+    "id": 160,
+    "name": "Meezzy",
+    "location": "China",
+    "industry": "Real Estate",
+    "employees": 5,
+    "revenue": 15
+  },
+  {
+    "id": 161,
+    "name": "Tavu",
+    "location": "Palestinian Territory",
+    "industry": "EDP Services",
+    "employees": 27,
+    "revenue": 54
+  },
+  {
+    "id": 162,
+    "name": "Meeveo",
+    "location": "Poland",
+    "industry": "Major Banks",
+    "employees": 4,
+    "revenue": 59
+  },
+  {
+    "id": 163,
+    "name": "Eadel",
+    "location": "Colombia",
+    "industry": "Farming/Seeds/Milling",
+    "employees": 67,
+    "revenue": 33
+  },
+  {
+    "id": 164,
+    "name": "Livetube",
+    "location": "Sweden",
+    "industry": "Major Pharmaceuticals",
+    "employees": 5,
+    "revenue": 91
+  },
+  {
+    "id": 165,
+    "name": "Wordpedia",
+    "location": "Indonesia",
+    "industry": "Real Estate",
+    "employees": 45,
+    "revenue": 71
+  },
+  {
+    "id": 166,
+    "name": "Mynte",
+    "location": "Brazil",
+    "industry": "Real Estate Investment Trusts",
+    "employees": 84,
+    "revenue": 70
+  },
+  {
+    "id": 167,
+    "name": "Avamba",
+    "location": "Russia",
+    "industry": "Finance: Consumer Services",
+    "employees": 96,
+    "revenue": 11
+  },
+  {
+    "id": 168,
+    "name": "Edgeclub",
+    "location": "Slovenia",
+    "industry": "n/a",
+    "employees": 71,
+    "revenue": 23
+  },
+  {
+    "id": 169,
+    "name": "Latz",
+    "location": "Russia",
+    "industry": "Electric Utilities: Central",
+    "employees": 39,
+    "revenue": 70
+  },
+  {
+    "id": 170,
+    "name": "Skaboo",
+    "location": "China",
+    "industry": "Packaged Foods",
+    "employees": 6,
+    "revenue": 52
+  },
+  {
+    "id": 171,
+    "name": "Browsezoom",
+    "location": "Guatemala",
+    "industry": "Property-Casualty Insurers",
+    "employees": 64,
+    "revenue": 60
+  },
+  {
+    "id": 172,
+    "name": "Fivebridge",
+    "location": "Sri Lanka",
+    "industry": "Retail: Computer Software & Peripheral Equipment",
+    "employees": 65,
+    "revenue": 25
+  },
+  {
+    "id": 173,
+    "name": "Feedmix",
+    "location": "Sweden",
+    "industry": "Marine Transportation",
+    "employees": 50,
+    "revenue": 23
+  },
+  {
+    "id": 174,
+    "name": "Leenti",
+    "location": "Indonesia",
+    "industry": "Telecommunications Equipment",
+    "employees": 3,
+    "revenue": 5
+  },
+  {
+    "id": 175,
+    "name": "Eare",
+    "location": "China",
+    "industry": "Transportation Services",
+    "employees": 35,
+    "revenue": 11
+  },
+  {
+    "id": 176,
+    "name": "Pixonyx",
+    "location": "Uruguay",
+    "industry": "Real Estate Investment Trusts",
+    "employees": 4,
+    "revenue": 91
+  },
+  {
+    "id": 177,
+    "name": "Jabberstorm",
+    "location": "China",
+    "industry": "Major Pharmaceuticals",
+    "employees": 75,
+    "revenue": 12
+  },
+  {
+    "id": 178,
+    "name": "Tazzy",
+    "location": "Ghana",
+    "industry": "Major Banks",
+    "employees": 36,
+    "revenue": 72
+  },
+  {
+    "id": 179,
+    "name": "Twitterbridge",
+    "location": "Russia",
+    "industry": "Power Generation",
+    "employees": 29,
+    "revenue": 97
+  },
+  {
+    "id": 180,
+    "name": "Eazzy",
+    "location": "Russia",
+    "industry": "Medical Specialities",
+    "employees": 2,
+    "revenue": 80
+  },
+  {
+    "id": 181,
+    "name": "Dabshots",
+    "location": "China",
+    "industry": "Medical/Nursing Services",
+    "employees": 52,
+    "revenue": 54
+  },
+  {
+    "id": 182,
+    "name": "Gabtune",
+    "location": "China",
+    "industry": "Real Estate Investment Trusts",
+    "employees": 65,
+    "revenue": 63
+  },
+  {
+    "id": 183,
+    "name": "Flashdog",
+    "location": "China",
+    "industry": "Transportation Services",
+    "employees": 14,
+    "revenue": 89
+  },
+  {
+    "id": 184,
+    "name": "Zava",
+    "location": "Brazil",
+    "industry": "Paper",
+    "employees": 49,
+    "revenue": 90
+  },
+  {
+    "id": 185,
+    "name": "Jabberstorm",
+    "location": "China",
+    "industry": "Real Estate Investment Trusts",
+    "employees": 85,
+    "revenue": 42
+  },
+  {
+    "id": 186,
+    "name": "Vipe",
+    "location": "China",
+    "industry": "Specialty Chemicals",
+    "employees": 72,
+    "revenue": 48
+  },
+  {
+    "id": 187,
+    "name": "Demimbu",
+    "location": "Malaysia",
+    "industry": "EDP Services",
+    "employees": 11,
+    "revenue": 100
+  },
+  {
+    "id": 188,
+    "name": "Devshare",
+    "location": "Sierra Leone",
+    "industry": "n/a",
+    "employees": 87,
+    "revenue": 96
+  },
+  {
+    "id": 189,
+    "name": "Yadel",
+    "location": "France",
+    "industry": "n/a",
+    "employees": 34,
+    "revenue": 78
+  },
+  {
+    "id": 190,
+    "name": "Mydeo",
+    "location": "Russia",
+    "industry": "n/a",
+    "employees": 86,
+    "revenue": 75
+  },
+  {
+    "id": 191,
+    "name": "Fanoodle",
+    "location": "Mozambique",
+    "industry": "EDP Services",
+    "employees": 92,
+    "revenue": 4
+  },
+  {
+    "id": 192,
+    "name": "Chatterbridge",
+    "location": "Indonesia",
+    "industry": "Medical/Dental Instruments",
+    "employees": 62,
+    "revenue": 82
+  },
+  {
+    "id": 193,
+    "name": "Edgeclub",
+    "location": "Brazil",
+    "industry": "Beverages (Production/Distribution)",
+    "employees": 46,
+    "revenue": 96
+  },
+  {
+    "id": 194,
+    "name": "Avavee",
+    "location": "Senegal",
+    "industry": "n/a",
+    "employees": 3,
+    "revenue": 56
+  },
+  {
+    "id": 195,
+    "name": "Babbleopia",
+    "location": "China",
+    "industry": "Real Estate Investment Trusts",
+    "employees": 60,
+    "revenue": 10
+  },
+  {
+    "id": 196,
+    "name": "Quamba",
+    "location": "Poland",
+    "industry": "Other Consumer Services",
+    "employees": 98,
+    "revenue": 43
+  },
+  {
+    "id": 197,
+    "name": "Skipstorm",
+    "location": "Samoa",
+    "industry": "Major Pharmaceuticals",
+    "employees": 83,
+    "revenue": 9
+  },
+  {
+    "id": 198,
+    "name": "Twimm",
+    "location": "Canada",
+    "industry": "Clothing/Shoe/Accessory Stores",
+    "employees": 26,
+    "revenue": 59
+  },
+  {
+    "id": 199,
+    "name": "Zoombeat",
+    "location": "China",
+    "industry": "Other Consumer Services",
+    "employees": 37,
+    "revenue": 36
+  },
+  {
+    "id": 200,
+    "name": "Flashdog",
+    "location": "Japan",
+    "industry": "n/a",
+    "employees": 79,
+    "revenue": 89
+  },
+  {
+    "id": 201,
+    "name": "Yozio",
+    "location": "Ukraine",
+    "industry": "Industrial Machinery/Components",
+    "employees": 24,
+    "revenue": 42
+  },
+  {
+    "id": 202,
+    "name": "Feedbug",
+    "location": "Sweden",
+    "industry": "Semiconductors",
+    "employees": 16,
+    "revenue": 65
+  },
+  {
+    "id": 203,
+    "name": "Janyx",
+    "location": "United States",
+    "industry": "n/a",
+    "employees": 23,
+    "revenue": 63
+  },
+  {
+    "id": 204,
+    "name": "Brainsphere",
+    "location": "Czech Republic",
+    "industry": "n/a",
+    "employees": 39,
+    "revenue": 16
+  },
+  {
+    "id": 205,
+    "name": "Trilia",
+    "location": "Argentina",
+    "industry": "Specialty Insurers",
+    "employees": 73,
+    "revenue": 25
+  },
+  {
+    "id": 206,
+    "name": "Shuffledrive",
+    "location": "Cuba",
+    "industry": "Industrial Machinery/Components",
+    "employees": 53,
+    "revenue": 33
+  },
+  {
+    "id": 207,
+    "name": "Shufflester",
+    "location": "Czech Republic",
+    "industry": "Major Chemicals",
+    "employees": 82,
+    "revenue": 45
+  },
+  {
+    "id": 208,
+    "name": "Skyvu",
+    "location": "Indonesia",
+    "industry": "Industrial Machinery/Components",
+    "employees": 15,
+    "revenue": 4
+  },
+  {
+    "id": 209,
+    "name": "Skiba",
+    "location": "Russia",
+    "industry": "n/a",
+    "employees": 33,
+    "revenue": 89
+  },
+  {
+    "id": 210,
+    "name": "Wikivu",
+    "location": "Cameroon",
+    "industry": "Computer Software: Programming, Data Processing",
+    "employees": 35,
+    "revenue": 57
+  },
+  {
+    "id": 211,
+    "name": "Pixonyx",
+    "location": "China",
+    "industry": "Major Pharmaceuticals",
+    "employees": 14,
+    "revenue": 45
+  },
+  {
+    "id": 212,
+    "name": "Meetz",
+    "location": "France",
+    "industry": "RETAIL: Building Materials",
+    "employees": 30,
+    "revenue": 88
+  },
+  {
+    "id": 213,
+    "name": "Innojam",
+    "location": "Bosnia and Herzegovina",
+    "industry": "Major Pharmaceuticals",
+    "employees": 37,
+    "revenue": 89
+  },
+  {
+    "id": 214,
+    "name": "Dazzlesphere",
+    "location": "Russia",
+    "industry": "Computer Software: Prepackaged Software",
+    "employees": 21,
+    "revenue": 5
+  },
+  {
+    "id": 215,
+    "name": "Abatz",
+    "location": "Nicaragua",
+    "industry": "Restaurants",
+    "employees": 22,
+    "revenue": 11
+  },
+  {
+    "id": 216,
+    "name": "Einti",
+    "location": "Russia",
+    "industry": "Business Services",
+    "employees": 57,
+    "revenue": 58
+  },
+  {
+    "id": 217,
+    "name": "Twitterwire",
+    "location": "El Salvador",
+    "industry": "Major Chemicals",
+    "employees": 21,
+    "revenue": 17
+  },
+  {
+    "id": 218,
+    "name": "Dabjam",
+    "location": "China",
+    "industry": "Major Banks",
+    "employees": 35,
+    "revenue": 46
+  },
+  {
+    "id": 219,
+    "name": "Tazz",
+    "location": "France",
+    "industry": "Biotechnology: Commercial Physical & Biological Resarch",
+    "employees": 7,
+    "revenue": 40
+  },
+  {
+    "id": 220,
+    "name": "Quamba",
+    "location": "Mexico",
+    "industry": "Industrial Machinery/Components",
+    "employees": 71,
+    "revenue": 76
+  },
+  {
+    "id": 221,
+    "name": "Jaxworks",
+    "location": "Indonesia",
+    "industry": "Professional Services",
+    "employees": 38,
+    "revenue": 27
+  },
+  {
+    "id": 222,
+    "name": "Twinder",
+    "location": "China",
+    "industry": "Major Banks",
+    "employees": 20,
+    "revenue": 35
+  },
+  {
+    "id": 223,
+    "name": "Babbleblab",
+    "location": "Sweden",
+    "industry": "Radio And Television Broadcasting And Communications Equipment",
+    "employees": 53,
+    "revenue": 21
+  },
+  {
+    "id": 224,
+    "name": "Realcube",
+    "location": "China",
+    "industry": "n/a",
+    "employees": 18,
+    "revenue": 42
+  },
+  {
+    "id": 225,
+    "name": "Jamia",
+    "location": "Sri Lanka",
+    "industry": "Major Banks",
+    "employees": 78,
+    "revenue": 61
+  },
+  {
+    "id": 226,
+    "name": "Bluejam",
+    "location": "Kuwait",
+    "industry": "Life Insurance",
+    "employees": 64,
+    "revenue": 56
+  },
+  {
+    "id": 227,
+    "name": "Jamia",
+    "location": "Tajikistan",
+    "industry": "Medical/Nursing Services",
+    "employees": 24,
+    "revenue": 55
+  },
+  {
+    "id": 228,
+    "name": "Devcast",
+    "location": "Guatemala",
+    "industry": "n/a",
+    "employees": 45,
+    "revenue": 3
+  },
+  {
+    "id": 229,
+    "name": "Oyondu",
+    "location": "Canada",
+    "industry": "Movies/Entertainment",
+    "employees": 3,
+    "revenue": 48
+  },
+  {
+    "id": 230,
+    "name": "Dabtype",
+    "location": "Brazil",
+    "industry": "n/a",
+    "employees": 43,
+    "revenue": 82
+  },
+  {
+    "id": 231,
+    "name": "Oyoyo",
+    "location": "Russia",
+    "industry": "Finance/Investors Services",
+    "employees": 35,
+    "revenue": 99
+  },
+  {
+    "id": 232,
+    "name": "Twitterbridge",
+    "location": "Philippines",
+    "industry": "Investment Bankers/Brokers/Service",
+    "employees": 69,
+    "revenue": 46
+  },
+  {
+    "id": 233,
+    "name": "Zoonder",
+    "location": "Brazil",
+    "industry": "Real Estate Investment Trusts",
+    "employees": 44,
+    "revenue": 43
+  },
+  {
+    "id": 234,
+    "name": "Rhybox",
+    "location": "France",
+    "industry": "Industrial Machinery/Components",
+    "employees": 9,
+    "revenue": 32
+  },
+  {
+    "id": 235,
+    "name": "Flipopia",
+    "location": "United States",
+    "industry": "Clothing/Shoe/Accessory Stores",
+    "employees": 30,
+    "revenue": 56
+  },
+  {
+    "id": 236,
+    "name": "Gigazoom",
+    "location": "Philippines",
+    "industry": "Major Banks",
+    "employees": 99,
+    "revenue": 67
+  },
+  {
+    "id": 237,
+    "name": "Kamba",
+    "location": "Philippines",
+    "industry": "Major Banks",
+    "employees": 78,
+    "revenue": 55
+  },
+  {
+    "id": 238,
+    "name": "Quire",
+    "location": "Poland",
+    "industry": "n/a",
+    "employees": 37,
+    "revenue": 100
+  },
+  {
+    "id": 239,
+    "name": "Fiveclub",
+    "location": "China",
+    "industry": "Services-Misc. Amusement & Recreation",
+    "employees": 89,
+    "revenue": 85
+  },
+  {
+    "id": 240,
+    "name": "Muxo",
+    "location": "China",
+    "industry": "n/a",
+    "employees": 9,
+    "revenue": 42
+  },
+  {
+    "id": 241,
+    "name": "Eadel",
+    "location": "Russia",
+    "industry": "n/a",
+    "employees": 45,
+    "revenue": 6
+  },
+  {
+    "id": 242,
+    "name": "Roomm",
+    "location": "Brazil",
+    "industry": "n/a",
+    "employees": 80,
+    "revenue": 45
+  },
+  {
+    "id": 243,
+    "name": "Zoovu",
+    "location": "Brazil",
+    "industry": "n/a",
+    "employees": 77,
+    "revenue": 49
+  },
+  {
+    "id": 244,
+    "name": "Zoombeat",
+    "location": "Kyrgyzstan",
+    "industry": "Clothing/Shoe/Accessory Stores",
+    "employees": 73,
+    "revenue": 92
+  },
+  {
+    "id": 245,
+    "name": "Fivechat",
+    "location": "Finland",
+    "industry": "Newspapers/Magazines",
+    "employees": 56,
+    "revenue": 12
+  },
+  {
+    "id": 246,
+    "name": "DabZ",
+    "location": "Poland",
+    "industry": "Real Estate Investment Trusts",
+    "employees": 43,
+    "revenue": 68
+  },
+  {
+    "id": 247,
+    "name": "Riffpedia",
+    "location": "Russia",
+    "industry": "n/a",
+    "employees": 86,
+    "revenue": 46
+  },
+  {
+    "id": 248,
+    "name": "Avamm",
+    "location": "Dominican Republic",
+    "industry": "Industrial Specialties",
+    "employees": 55,
+    "revenue": 89
+  },
+  {
+    "id": 249,
+    "name": "Meezzy",
+    "location": "Syria",
+    "industry": "n/a",
+    "employees": 8,
+    "revenue": 58
+  },
+  {
+    "id": 250,
+    "name": "Yacero",
+    "location": "China",
+    "industry": "Savings Institutions",
+    "employees": 82,
+    "revenue": 33
+  },
+  {
+    "id": 251,
+    "name": "Miboo",
+    "location": "Indonesia",
+    "industry": "Property-Casualty Insurers",
+    "employees": 33,
+    "revenue": 6
+  },
+  {
+    "id": 252,
+    "name": "Jabbersphere",
+    "location": "Nigeria",
+    "industry": "Water Supply",
+    "employees": 51,
+    "revenue": 79
+  },
+  {
+    "id": 253,
+    "name": "Chatterpoint",
+    "location": "Indonesia",
+    "industry": "Major Banks",
+    "employees": 3,
+    "revenue": 76
+  },
+  {
+    "id": 254,
+    "name": "JumpXS",
+    "location": "Brazil",
+    "industry": "n/a",
+    "employees": 44,
+    "revenue": 11
+  },
+  {
+    "id": 255,
+    "name": "Myworks",
+    "location": "Venezuela",
+    "industry": "n/a",
+    "employees": 19,
+    "revenue": 79
+  },
+  {
+    "id": 256,
+    "name": "InnoZ",
+    "location": "China",
+    "industry": "Investment Bankers/Brokers/Service",
+    "employees": 95,
+    "revenue": 37
+  },
+  {
+    "id": 257,
+    "name": "Dabtype",
+    "location": "Colombia",
+    "industry": "Major Pharmaceuticals",
+    "employees": 37,
+    "revenue": 53
+  },
+  {
+    "id": 258,
+    "name": "Tagchat",
+    "location": "Brazil",
+    "industry": "Publishing",
+    "employees": 68,
+    "revenue": 89
+  },
+  {
+    "id": 259,
+    "name": "Photojam",
+    "location": "Albania",
+    "industry": "Savings Institutions",
+    "employees": 29,
+    "revenue": 50
+  },
+  {
+    "id": 260,
+    "name": "Browsedrive",
+    "location": "Albania",
+    "industry": "n/a",
+    "employees": 12,
+    "revenue": 100
+  },
+  {
+    "id": 261,
+    "name": "Voomm",
+    "location": "Ivory Coast",
+    "industry": "Hospital/Nursing Management",
+    "employees": 28,
+    "revenue": 32
+  },
+  {
+    "id": 262,
+    "name": "Brainverse",
+    "location": "Portugal",
+    "industry": "Services-Misc. Amusement & Recreation",
+    "employees": 82,
+    "revenue": 39
+  },
+  {
+    "id": 263,
+    "name": "Topiclounge",
+    "location": "United States",
+    "industry": "Major Banks",
+    "employees": 41,
+    "revenue": 47
+  },
+  {
+    "id": 264,
+    "name": "Shuffledrive",
+    "location": "Peru",
+    "industry": "Investment Managers",
+    "employees": 55,
+    "revenue": 47
+  },
+  {
+    "id": 265,
+    "name": "Blogspan",
+    "location": "Philippines",
+    "industry": "Medical/Dental Instruments",
+    "employees": 77,
+    "revenue": 6
+  },
+  {
+    "id": 266,
+    "name": "Buzzshare",
+    "location": "China",
+    "industry": "Real Estate Investment Trusts",
+    "employees": 1,
+    "revenue": 30
+  },
+  {
+    "id": 267,
+    "name": "Browsebug",
+    "location": "Indonesia",
+    "industry": "Computer Manufacturing",
+    "employees": 94,
+    "revenue": 17
+  },
+  {
+    "id": 268,
+    "name": "Twimbo",
+    "location": "Poland",
+    "industry": "Real Estate Investment Trusts",
+    "employees": 83,
+    "revenue": 52
+  },
+  {
+    "id": 269,
+    "name": "Jatri",
+    "location": "Tanzania",
+    "industry": "Clothing/Shoe/Accessory Stores",
+    "employees": 14,
+    "revenue": 42
+  },
+  {
+    "id": 270,
+    "name": "Linkbuzz",
+    "location": "France",
+    "industry": "Radio And Television Broadcasting And Communications Equipment",
+    "employees": 29,
+    "revenue": 76
+  },
+  {
+    "id": 271,
+    "name": "Camido",
+    "location": "China",
+    "industry": "Industrial Machinery/Components",
+    "employees": 31,
+    "revenue": 57
+  },
+  {
+    "id": 272,
+    "name": "Skyble",
+    "location": "China",
+    "industry": "n/a",
+    "employees": 17,
+    "revenue": 20
+  },
+  {
+    "id": 273,
+    "name": "Oodoo",
+    "location": "Vietnam",
+    "industry": "Real Estate Investment Trusts",
+    "employees": 26,
+    "revenue": 49
+  },
+  {
+    "id": 274,
+    "name": "Eazzy",
+    "location": "Finland",
+    "industry": "EDP Services",
+    "employees": 74,
+    "revenue": 4
+  },
+  {
+    "id": 275,
+    "name": "Ozu",
+    "location": "Russia",
+    "industry": "n/a",
+    "employees": 28,
+    "revenue": 91
+  },
+  {
+    "id": 276,
+    "name": "Feedmix",
+    "location": "Jordan",
+    "industry": "Oil & Gas Production",
+    "employees": 68,
+    "revenue": 37
+  },
+  {
+    "id": 277,
+    "name": "Geba",
+    "location": "Afghanistan",
+    "industry": "Telecommunications Equipment",
+    "employees": 31,
+    "revenue": 56
+  },
+  {
+    "id": 278,
+    "name": "Rhyzio",
+    "location": "China",
+    "industry": "Catalog/Specialty Distribution",
+    "employees": 51,
+    "revenue": 59
+  },
+  {
+    "id": 279,
+    "name": "Quatz",
+    "location": "Russia",
+    "industry": "Industrial Specialties",
+    "employees": 44,
+    "revenue": 50
+  },
+  {
+    "id": 280,
+    "name": "Meevee",
+    "location": "Indonesia",
+    "industry": "Computer Software: Prepackaged Software",
+    "employees": 33,
+    "revenue": 53
+  },
+  {
+    "id": 281,
+    "name": "InnoZ",
+    "location": "China",
+    "industry": "n/a",
+    "employees": 29,
+    "revenue": 38
+  },
+  {
+    "id": 282,
+    "name": "Trudoo",
+    "location": "Mauritania",
+    "industry": "Specialty Chemicals",
+    "employees": 17,
+    "revenue": 82
+  },
+  {
+    "id": 283,
+    "name": "Oyoba",
+    "location": "China",
+    "industry": "Industrial Machinery/Components",
+    "employees": 16,
+    "revenue": 22
+  },
+  {
+    "id": 284,
+    "name": "Browseblab",
+    "location": "Gambia",
+    "industry": "Property-Casualty Insurers",
+    "employees": 20,
+    "revenue": 87
+  },
+  {
+    "id": 285,
+    "name": "Roomm",
+    "location": "Pakistan",
+    "industry": "Business Services",
+    "employees": 35,
+    "revenue": 86
+  },
+  {
+    "id": 286,
+    "name": "Voomm",
+    "location": "Indonesia",
+    "industry": "Oil & Gas Production",
+    "employees": 72,
+    "revenue": 40
+  },
+  {
+    "id": 287,
+    "name": "Camimbo",
+    "location": "China",
+    "industry": "Property-Casualty Insurers",
+    "employees": 26,
+    "revenue": 43
+  },
+  {
+    "id": 288,
+    "name": "Kwimbee",
+    "location": "Colombia",
+    "industry": "n/a",
+    "employees": 15,
+    "revenue": 5
+  },
+  {
+    "id": 289,
+    "name": "Demizz",
+    "location": "Afghanistan",
+    "industry": "Commercial Banks",
+    "employees": 43,
+    "revenue": 97
+  },
+  {
+    "id": 290,
+    "name": "Jabbercube",
+    "location": "Morocco",
+    "industry": "Radio And Television Broadcasting And Communications Equipment",
+    "employees": 55,
+    "revenue": 39
+  },
+  {
+    "id": 291,
+    "name": "Katz",
+    "location": "Indonesia",
+    "industry": "Hotels/Resorts",
+    "employees": 62,
+    "revenue": 36
+  },
+  {
+    "id": 292,
+    "name": "Jabbercube",
+    "location": "Mongolia",
+    "industry": "Electrical Products",
+    "employees": 91,
+    "revenue": 36
+  },
+  {
+    "id": 293,
+    "name": "Zava",
+    "location": "Russia",
+    "industry": "Property-Casualty Insurers",
+    "employees": 35,
+    "revenue": 50
+  },
+  {
+    "id": 294,
+    "name": "Topicblab",
+    "location": "Philippines",
+    "industry": "Computer Software: Programming, Data Processing",
+    "employees": 21,
+    "revenue": 79
+  },
+  {
+    "id": 295,
+    "name": "Oozz",
+    "location": "Indonesia",
+    "industry": "n/a",
+    "employees": 24,
+    "revenue": 83
+  },
+  {
+    "id": 296,
+    "name": "Realfire",
+    "location": "France",
+    "industry": "Marine Transportation",
+    "employees": 11,
+    "revenue": 18
+  },
+  {
+    "id": 297,
+    "name": "Meevee",
+    "location": "Indonesia",
+    "industry": "Auto Manufacturing",
+    "employees": 62,
+    "revenue": 65
+  },
+  {
+    "id": 298,
+    "name": "Flipbug",
+    "location": "Mali",
+    "industry": "n/a",
+    "employees": 86,
+    "revenue": 80
+  },
+  {
+    "id": 299,
+    "name": "Pixonyx",
+    "location": "Poland",
+    "industry": "Medical/Dental Instruments",
+    "employees": 49,
+    "revenue": 78
+  },
+  {
+    "id": 300,
+    "name": "Meedoo",
+    "location": "Japan",
+    "industry": "Farming/Seeds/Milling",
+    "employees": 42,
+    "revenue": 83
+  },
+  {
+    "id": 301,
+    "name": "Jamia",
+    "location": "Philippines",
+    "industry": "Savings Institutions",
+    "employees": 90,
+    "revenue": 81
+  },
+  {
+    "id": 302,
+    "name": "Viva",
+    "location": "Iran",
+    "industry": "Marine Transportation",
+    "employees": 44,
+    "revenue": 31
+  },
+  {
+    "id": 303,
+    "name": "Quimm",
+    "location": "Ukraine",
+    "industry": "Life Insurance",
+    "employees": 62,
+    "revenue": 77
+  },
+  {
+    "id": 304,
+    "name": "Quinu",
+    "location": "Tajikistan",
+    "industry": "Business Services",
+    "employees": 37,
+    "revenue": 41
+  },
+  {
+    "id": 305,
+    "name": "Ntags",
+    "location": "Slovenia",
+    "industry": "Telecommunications Equipment",
+    "employees": 23,
+    "revenue": 48
+  },
+  {
+    "id": 306,
+    "name": "Flashspan",
+    "location": "China",
+    "industry": "Electric Utilities: Central",
+    "employees": 27,
+    "revenue": 26
+  },
+  {
+    "id": 307,
+    "name": "Meembee",
+    "location": "Kosovo",
+    "industry": "Diversified Commercial Services",
+    "employees": 38,
+    "revenue": 15
+  },
+  {
+    "id": 308,
+    "name": "Rhynoodle",
+    "location": "Indonesia",
+    "industry": "Major Pharmaceuticals",
+    "employees": 11,
+    "revenue": 72
+  },
+  {
+    "id": 309,
+    "name": "Katz",
+    "location": "Indonesia",
+    "industry": "n/a",
+    "employees": 92,
+    "revenue": 51
+  },
+  {
+    "id": 310,
+    "name": "Edgepulse",
+    "location": "Portugal",
+    "industry": "n/a",
+    "employees": 61,
+    "revenue": 34
+  },
+  {
+    "id": 311,
+    "name": "Meejo",
+    "location": "Thailand",
+    "industry": "Major Pharmaceuticals",
+    "employees": 79,
+    "revenue": 39
+  },
+  {
+    "id": 312,
+    "name": "Podcat",
+    "location": "Namibia",
+    "industry": "Property-Casualty Insurers",
+    "employees": 54,
+    "revenue": 45
+  },
+  {
+    "id": 313,
+    "name": "Jabberbean",
+    "location": "Armenia",
+    "industry": "n/a",
+    "employees": 90,
+    "revenue": 83
+  },
+  {
+    "id": 314,
+    "name": "Izio",
+    "location": "Malaysia",
+    "industry": "Oil Refining/Marketing",
+    "employees": 41,
+    "revenue": 9
+  },
+  {
+    "id": 315,
+    "name": "Browsebug",
+    "location": "Japan",
+    "industry": "n/a",
+    "employees": 63,
+    "revenue": 38
+  },
+  {
+    "id": 316,
+    "name": "Tazzy",
+    "location": "United States",
+    "industry": "Oilfield Services/Equipment",
+    "employees": 51,
+    "revenue": 82
+  },
+  {
+    "id": 317,
+    "name": "Yambee",
+    "location": "Portugal",
+    "industry": "Major Banks",
+    "employees": 24,
+    "revenue": 66
+  },
+  {
+    "id": 318,
+    "name": "Photobug",
+    "location": "China",
+    "industry": "Diversified Electronic Products",
+    "employees": 7,
+    "revenue": 74
+  },
+  {
+    "id": 319,
+    "name": "Eire",
+    "location": "Czech Republic",
+    "industry": "Real Estate Investment Trusts",
+    "employees": 17,
+    "revenue": 13
+  },
+  {
+    "id": 320,
+    "name": "Talane",
+    "location": "North Korea",
+    "industry": "Radio And Television Broadcasting And Communications Equipment",
+    "employees": 15,
+    "revenue": 84
+  },
+  {
+    "id": 321,
+    "name": "Blogspan",
+    "location": "Poland",
+    "industry": "n/a",
+    "employees": 59,
+    "revenue": 60
+  },
+  {
+    "id": 322,
+    "name": "Riffwire",
+    "location": "Argentina",
+    "industry": "Trucking Freight/Courier Services",
+    "employees": 100,
+    "revenue": 85
+  },
+  {
+    "id": 323,
+    "name": "Zoovu",
+    "location": "Russia",
+    "industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances",
+    "employees": 40,
+    "revenue": 66
+  },
+  {
+    "id": 324,
+    "name": "Livepath",
+    "location": "Philippines",
+    "industry": "n/a",
+    "employees": 97,
+    "revenue": 8
+  },
+  {
+    "id": 325,
+    "name": "Babbleblab",
+    "location": "Russia",
+    "industry": "Natural Gas Distribution",
+    "employees": 80,
+    "revenue": 44
+  },
+  {
+    "id": 326,
+    "name": "Centidel",
+    "location": "China",
+    "industry": "Banks",
+    "employees": 89,
+    "revenue": 76
+  },
+  {
+    "id": 327,
+    "name": "Chatterpoint",
+    "location": "Czech Republic",
+    "industry": "Investment Managers",
+    "employees": 66,
+    "revenue": 26
+  },
+  {
+    "id": 328,
+    "name": "Buzzshare",
+    "location": "Poland",
+    "industry": "Industrial Machinery/Components",
+    "employees": 62,
+    "revenue": 78
+  },
+  {
+    "id": 329,
+    "name": "Youtags",
+    "location": "Slovenia",
+    "industry": "n/a",
+    "employees": 63,
+    "revenue": 61
+  },
+  {
+    "id": 330,
+    "name": "Ntag",
+    "location": "Philippines",
+    "industry": "n/a",
+    "employees": 24,
+    "revenue": 2
+  },
+  {
+    "id": 331,
+    "name": "Topicblab",
+    "location": "Poland",
+    "industry": "Savings Institutions",
+    "employees": 40,
+    "revenue": 29
+  },
+  {
+    "id": 332,
+    "name": "Feedfish",
+    "location": "China",
+    "industry": "Industrial Machinery/Components",
+    "employees": 53,
+    "revenue": 58
+  },
+  {
+    "id": 333,
+    "name": "Skaboo",
+    "location": "Chile",
+    "industry": "Medical/Dental Instruments",
+    "employees": 24,
+    "revenue": 23
+  },
+  {
+    "id": 334,
+    "name": "Twimbo",
+    "location": "Luxembourg",
+    "industry": "n/a",
+    "employees": 28,
+    "revenue": 10
+  },
+  {
+    "id": 335,
+    "name": "Photolist",
+    "location": "Indonesia",
+    "industry": "Computer Software: Programming, Data Processing",
+    "employees": 30,
+    "revenue": 25
+  },
+  {
+    "id": 336,
+    "name": "Jaxworks",
+    "location": "Philippines",
+    "industry": "Telecommunications Equipment",
+    "employees": 8,
+    "revenue": 57
+  },
+  {
+    "id": 337,
+    "name": "Livefish",
+    "location": "Peru",
+    "industry": "n/a",
+    "employees": 97,
+    "revenue": 88
+  },
+  {
+    "id": 338,
+    "name": "Jabbercube",
+    "location": "Philippines",
+    "industry": "n/a",
+    "employees": 25,
+    "revenue": 22
+  },
+  {
+    "id": 339,
+    "name": "Tekfly",
+    "location": "Bulgaria",
+    "industry": "n/a",
+    "employees": 87,
+    "revenue": 78
+  },
+  {
+    "id": 340,
+    "name": "Avamba",
+    "location": "United States",
+    "industry": "Major Banks",
+    "employees": 16,
+    "revenue": 45
+  },
+  {
+    "id": 341,
+    "name": "Tagpad",
+    "location": "Russia",
+    "industry": "n/a",
+    "employees": 96,
+    "revenue": 98
+  },
+  {
+    "id": 342,
+    "name": "Quinu",
+    "location": "Cape Verde",
+    "industry": "Computer Software: Prepackaged Software",
+    "employees": 90,
+    "revenue": 45
+  },
+  {
+    "id": 343,
+    "name": "Gigabox",
+    "location": "Ukraine",
+    "industry": "Medical/Dental Instruments",
+    "employees": 78,
+    "revenue": 49
+  },
+  {
+    "id": 344,
+    "name": "Katz",
+    "location": "Indonesia",
+    "industry": "n/a",
+    "employees": 32,
+    "revenue": 36
+  },
+  {
+    "id": 345,
+    "name": "Tagpad",
+    "location": "Brazil",
+    "industry": "Auto Parts:O.E.M.",
+    "employees": 56,
+    "revenue": 84
+  },
+  {
+    "id": 346,
+    "name": "Trudeo",
+    "location": "China",
+    "industry": "Other Specialty Stores",
+    "employees": 98,
+    "revenue": 45
+  },
+  {
+    "id": 347,
+    "name": "Divavu",
+    "location": "Sri Lanka",
+    "industry": "Commercial Banks",
+    "employees": 90,
+    "revenue": 24
+  },
+  {
+    "id": 348,
+    "name": "Shuffletag",
+    "location": "Brazil",
+    "industry": "Railroads",
+    "employees": 64,
+    "revenue": 91
+  },
+  {
+    "id": 349,
+    "name": "Realpoint",
+    "location": "Indonesia",
+    "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+    "employees": 45,
+    "revenue": 10
+  },
+  {
+    "id": 350,
+    "name": "Wikivu",
+    "location": "Poland",
+    "industry": "Medical/Dental Instruments",
+    "employees": 50,
+    "revenue": 54
+  },
+  {
+    "id": 351,
+    "name": "Jetwire",
+    "location": "Portugal",
+    "industry": "Beverages (Production/Distribution)",
+    "employees": 99,
+    "revenue": 52
+  },
+  {
+    "id": 352,
+    "name": "Quire",
+    "location": "Armenia",
+    "industry": "Computer peripheral equipment",
+    "employees": 61,
+    "revenue": 48
+  },
+  {
+    "id": 353,
+    "name": "Aimbo",
+    "location": "Armenia",
+    "industry": "Computer Manufacturing",
+    "employees": 90,
+    "revenue": 11
+  },
+  {
+    "id": 354,
+    "name": "Tambee",
+    "location": "Poland",
+    "industry": "Professional Services",
+    "employees": 1,
+    "revenue": 47
+  },
+  {
+    "id": 355,
+    "name": "Edgewire",
+    "location": "Swaziland",
+    "industry": "Computer Software: Prepackaged Software",
+    "employees": 93,
+    "revenue": 73
+  },
+  {
+    "id": 356,
+    "name": "Meetz",
+    "location": "United States",
+    "industry": "n/a",
+    "employees": 34,
+    "revenue": 6
+  },
+  {
+    "id": 357,
+    "name": "Pixoboo",
+    "location": "United States",
+    "industry": "Semiconductors",
+    "employees": 19,
+    "revenue": 18
+  },
+  {
+    "id": 358,
+    "name": "Bluezoom",
+    "location": "Poland",
+    "industry": "Real Estate Investment Trusts",
+    "employees": 11,
+    "revenue": 37
+  },
+  {
+    "id": 359,
+    "name": "Dabjam",
+    "location": "Russia",
+    "industry": "n/a",
+    "employees": 39,
+    "revenue": 93
+  },
+  {
+    "id": 360,
+    "name": "Skyba",
+    "location": "China",
+    "industry": "Semiconductors",
+    "employees": 72,
+    "revenue": 75
+  },
+  {
+    "id": 361,
+    "name": "Oodoo",
+    "location": "Ethiopia",
+    "industry": "Other Specialty Stores",
+    "employees": 93,
+    "revenue": 51
+  },
+  {
+    "id": 362,
+    "name": "Browsebug",
+    "location": "China",
+    "industry": "Medical/Dental Instruments",
+    "employees": 26,
+    "revenue": 6
+  },
+  {
+    "id": 363,
+    "name": "Voomm",
+    "location": "Indonesia",
+    "industry": "Major Pharmaceuticals",
+    "employees": 84,
+    "revenue": 65
+  },
+  {
+    "id": 364,
+    "name": "Skinte",
+    "location": "Iraq",
+    "industry": "Electrical Products",
+    "employees": 83,
+    "revenue": 67
+  },
+  {
+    "id": 365,
+    "name": "Dynazzy",
+    "location": "Brazil",
+    "industry": "Other Consumer Services",
+    "employees": 89,
+    "revenue": 13
+  },
+  {
+    "id": 366,
+    "name": "Realcube",
+    "location": "Slovenia",
+    "industry": "Major Pharmaceuticals",
+    "employees": 90,
+    "revenue": 50
+  },
+  {
+    "id": 367,
+    "name": "Topdrive",
+    "location": "China",
+    "industry": "Fluid Controls",
+    "employees": 1,
+    "revenue": 9
+  },
+  {
+    "id": 368,
+    "name": "Yacero",
+    "location": "France",
+    "industry": "n/a",
+    "employees": 15,
+    "revenue": 80
+  },
+  {
+    "id": 369,
+    "name": "Zoozzy",
+    "location": "China",
+    "industry": "EDP Services",
+    "employees": 90,
+    "revenue": 78
+  },
+  {
+    "id": 370,
+    "name": "Plajo",
+    "location": "Indonesia",
+    "industry": "Major Chemicals",
+    "employees": 53,
+    "revenue": 49
+  },
+  {
+    "id": 371,
+    "name": "Rhyzio",
+    "location": "Brazil",
+    "industry": "n/a",
+    "employees": 1,
+    "revenue": 2
+  },
+  {
+    "id": 372,
+    "name": "Fivespan",
+    "location": "China",
+    "industry": "n/a",
+    "employees": 5,
+    "revenue": 74
+  },
+  {
+    "id": 373,
+    "name": "Katz",
+    "location": "Russia",
+    "industry": "n/a",
+    "employees": 97,
+    "revenue": 77
+  },
+  {
+    "id": 374,
+    "name": "Skilith",
+    "location": "Philippines",
+    "industry": "n/a",
+    "employees": 12,
+    "revenue": 61
+  },
+  {
+    "id": 375,
+    "name": "Oyonder",
+    "location": "Honduras",
+    "industry": "Major Pharmaceuticals",
+    "employees": 83,
+    "revenue": 12
+  },
+  {
+    "id": 376,
+    "name": "Abata",
+    "location": "Bolivia",
+    "industry": "Major Banks",
+    "employees": 82,
+    "revenue": 10
+  },
+  {
+    "id": 377,
+    "name": "Roombo",
+    "location": "China",
+    "industry": "Major Banks",
+    "employees": 97,
+    "revenue": 26
+  },
+  {
+    "id": 378,
+    "name": "Mynte",
+    "location": "Brazil",
+    "industry": "Major Banks",
+    "employees": 19,
+    "revenue": 8
+  },
+  {
+    "id": 379,
+    "name": "Mymm",
+    "location": "China",
+    "industry": "n/a",
+    "employees": 12,
+    "revenue": 50
+  },
+  {
+    "id": 380,
+    "name": "Innojam",
+    "location": "Philippines",
+    "industry": "Electric Utilities: Central",
+    "employees": 19,
+    "revenue": 21
+  },
+  {
+    "id": 381,
+    "name": "Kazu",
+    "location": "Canada",
+    "industry": "Miscellaneous",
+    "employees": 88,
+    "revenue": 2
+  },
+  {
+    "id": 382,
+    "name": "Tanoodle",
+    "location": "Brazil",
+    "industry": "Packaged Foods",
+    "employees": 13,
+    "revenue": 49
+  },
+  {
+    "id": 383,
+    "name": "Yacero",
+    "location": "Portugal",
+    "industry": "Restaurants",
+    "employees": 7,
+    "revenue": 34
+  },
+  {
+    "id": 384,
+    "name": "Youopia",
+    "location": "Jordan",
+    "industry": "Major Banks",
+    "employees": 65,
+    "revenue": 18
+  },
+  {
+    "id": 385,
+    "name": "Eadel",
+    "location": "Poland",
+    "industry": "Paper",
+    "employees": 26,
+    "revenue": 31
+  },
+  {
+    "id": 386,
+    "name": "Browsezoom",
+    "location": "Honduras",
+    "industry": "n/a",
+    "employees": 3,
+    "revenue": 83
+  },
+  {
+    "id": 387,
+    "name": "Gabcube",
+    "location": "Indonesia",
+    "industry": "Major Chemicals",
+    "employees": 21,
+    "revenue": 32
+  },
+  {
+    "id": 388,
+    "name": "Photobug",
+    "location": "Canada",
+    "industry": "Medical/Dental Instruments",
+    "employees": 46,
+    "revenue": 93
+  },
+  {
+    "id": 389,
+    "name": "Meedoo",
+    "location": "Czech Republic",
+    "industry": "Computer Software: Programming, Data Processing",
+    "employees": 53,
+    "revenue": 35
+  },
+  {
+    "id": 390,
+    "name": "Buzzbean",
+    "location": "China",
+    "industry": "Building operators",
+    "employees": 89,
+    "revenue": 48
+  },
+  {
+    "id": 391,
+    "name": "Roombo",
+    "location": "China",
+    "industry": "Major Banks",
+    "employees": 10,
+    "revenue": 83
+  },
+  {
+    "id": 392,
+    "name": "Tagchat",
+    "location": "Philippines",
+    "industry": "Major Banks",
+    "employees": 38,
+    "revenue": 61
+  },
+  {
+    "id": 393,
+    "name": "Photospace",
+    "location": "Mexico",
+    "industry": "Telecommunications Equipment",
+    "employees": 79,
+    "revenue": 38
+  },
+  {
+    "id": 394,
+    "name": "Meevee",
+    "location": "China",
+    "industry": "n/a",
+    "employees": 98,
+    "revenue": 19
+  },
+  {
+    "id": 395,
+    "name": "Yoveo",
+    "location": "Russia",
+    "industry": "Industrial Machinery/Components",
+    "employees": 21,
+    "revenue": 39
+  },
+  {
+    "id": 396,
+    "name": "InnoZ",
+    "location": "Philippines",
+    "industry": "Natural Gas Distribution",
+    "employees": 94,
+    "revenue": 92
+  },
+  {
+    "id": 397,
+    "name": "Edgepulse",
+    "location": "France",
+    "industry": "n/a",
+    "employees": 3,
+    "revenue": 92
+  },
+  {
+    "id": 398,
+    "name": "Gabcube",
+    "location": "Argentina",
+    "industry": "Major Pharmaceuticals",
+    "employees": 8,
+    "revenue": 89
+  },
+  {
+    "id": 399,
+    "name": "Zoomcast",
+    "location": "China",
+    "industry": "n/a",
+    "employees": 7,
+    "revenue": 56
+  },
+  {
+    "id": 400,
+    "name": "Eabox",
+    "location": "Sweden",
+    "industry": "n/a",
+    "employees": 24,
+    "revenue": 90
+  },
+  {
+    "id": 401,
+    "name": "Omba",
+    "location": "Russia",
+    "industry": "Multi-Sector Companies",
+    "employees": 19,
+    "revenue": 87
+  },
+  {
+    "id": 402,
+    "name": "Linklinks",
+    "location": "Poland",
+    "industry": "Services-Misc. Amusement & Recreation",
+    "employees": 31,
+    "revenue": 92
+  },
+  {
+    "id": 403,
+    "name": "Omba",
+    "location": "China",
+    "industry": "Auto Manufacturing",
+    "employees": 35,
+    "revenue": 83
+  },
+  {
+    "id": 404,
+    "name": "Skyndu",
+    "location": "Brazil",
+    "industry": "Investment Bankers/Brokers/Service",
+    "employees": 1,
+    "revenue": 9
+  },
+  {
+    "id": 405,
+    "name": "Buzzbean",
+    "location": "China",
+    "industry": "Power Generation",
+    "employees": 65,
+    "revenue": 12
+  },
+  {
+    "id": 406,
+    "name": "Tagopia",
+    "location": "Philippines",
+    "industry": "Investment Managers",
+    "employees": 34,
+    "revenue": 14
+  },
+  {
+    "id": 407,
+    "name": "Fivespan",
+    "location": "Poland",
+    "industry": "Semiconductors",
+    "employees": 40,
+    "revenue": 81
+  },
+  {
+    "id": 408,
+    "name": "Twitterlist",
+    "location": "Sweden",
+    "industry": "Investment Bankers/Brokers/Service",
+    "employees": 80,
+    "revenue": 66
+  },
+  {
+    "id": 409,
+    "name": "Centimia",
+    "location": "Indonesia",
+    "industry": "Major Pharmaceuticals",
+    "employees": 1,
+    "revenue": 52
+  },
+  {
+    "id": 410,
+    "name": "Chatterbridge",
+    "location": "Philippines",
+    "industry": "Oil & Gas Production",
+    "employees": 26,
+    "revenue": 78
+  },
+  {
+    "id": 411,
+    "name": "Edgeclub",
+    "location": "Philippines",
+    "industry": "Computer Software: Programming, Data Processing",
+    "employees": 32,
+    "revenue": 15
+  },
+  {
+    "id": 412,
+    "name": "Meedoo",
+    "location": "Indonesia",
+    "industry": "Property-Casualty Insurers",
+    "employees": 93,
+    "revenue": 46
+  },
+  {
+    "id": 413,
+    "name": "Kwilith",
+    "location": "China",
+    "industry": "Biotechnology: Laboratory Analytical Instruments",
+    "employees": 92,
+    "revenue": 5
+  },
+  {
+    "id": 414,
+    "name": "Mita",
+    "location": "Greece",
+    "industry": "Real Estate Investment Trusts",
+    "employees": 54,
+    "revenue": 72
+  },
+  {
+    "id": 415,
+    "name": "Yamia",
+    "location": "Portugal",
+    "industry": "Major Banks",
+    "employees": 95,
+    "revenue": 7
+  },
+  {
+    "id": 416,
+    "name": "Oyoyo",
+    "location": "China",
+    "industry": "Containers/Packaging",
+    "employees": 26,
+    "revenue": 45
+  },
+  {
+    "id": 417,
+    "name": "Topicblab",
+    "location": "China",
+    "industry": "Computer Software: Prepackaged Software",
+    "employees": 90,
+    "revenue": 56
+  },
+  {
+    "id": 418,
+    "name": "Realbridge",
+    "location": "Argentina",
+    "industry": "Precious Metals",
+    "employees": 73,
+    "revenue": 41
+  },
+  {
+    "id": 419,
+    "name": "Devpulse",
+    "location": "Sweden",
+    "industry": "n/a",
+    "employees": 95,
+    "revenue": 67
+  },
+  {
+    "id": 420,
+    "name": "Yabox",
+    "location": "Afghanistan",
+    "industry": "Real Estate Investment Trusts",
+    "employees": 97,
+    "revenue": 43
+  },
+  {
+    "id": 421,
+    "name": "Quire",
+    "location": "United States",
+    "industry": "Metal Fabrications",
+    "employees": 22,
+    "revenue": 51
+  },
+  {
+    "id": 422,
+    "name": "Zava",
+    "location": "Serbia",
+    "industry": "Savings Institutions",
+    "employees": 1,
+    "revenue": 53
+  },
+  {
+    "id": 423,
+    "name": "Browsetype",
+    "location": "Canada",
+    "industry": "Major Pharmaceuticals",
+    "employees": 49,
+    "revenue": 5
+  },
+  {
+    "id": 424,
+    "name": "Aimbo",
+    "location": "Thailand",
+    "industry": "n/a",
+    "employees": 71,
+    "revenue": 48
+  },
+  {
+    "id": 425,
+    "name": "Jayo",
+    "location": "Poland",
+    "industry": "Major Chemicals",
+    "employees": 4,
+    "revenue": 51
+  },
+  {
+    "id": 426,
+    "name": "Realmix",
+    "location": "China",
+    "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+    "employees": 20,
+    "revenue": 97
+  },
+  {
+    "id": 427,
+    "name": "Skinte",
+    "location": "Russia",
+    "industry": "Industrial Machinery/Components",
+    "employees": 26,
+    "revenue": 42
+  },
+  {
+    "id": 428,
+    "name": "Dynabox",
+    "location": "Colombia",
+    "industry": "n/a",
+    "employees": 96,
+    "revenue": 41
+  },
+  {
+    "id": 429,
+    "name": "Skalith",
+    "location": "China",
+    "industry": "Semiconductors",
+    "employees": 44,
+    "revenue": 21
+  },
+  {
+    "id": 430,
+    "name": "Centizu",
+    "location": "China",
+    "industry": "Hotels/Resorts",
+    "employees": 4,
+    "revenue": 14
+  },
+  {
+    "id": 431,
+    "name": "Livefish",
+    "location": "Bulgaria",
+    "industry": "Natural Gas Distribution",
+    "employees": 59,
+    "revenue": 69
+  },
+  {
+    "id": 432,
+    "name": "Eadel",
+    "location": "Chad",
+    "industry": "Computer Manufacturing",
+    "employees": 57,
+    "revenue": 74
+  },
+  {
+    "id": 433,
+    "name": "Photobug",
+    "location": "China",
+    "industry": "Electric Utilities: Central",
+    "employees": 89,
+    "revenue": 88
+  },
+  {
+    "id": 434,
+    "name": "Quinu",
+    "location": "Philippines",
+    "industry": "n/a",
+    "employees": 14,
+    "revenue": 35
+  },
+  {
+    "id": 435,
+    "name": "Meeveo",
+    "location": "Indonesia",
+    "industry": "Environmental Services",
+    "employees": 2,
+    "revenue": 83
+  },
+  {
+    "id": 436,
+    "name": "Browsebug",
+    "location": "Democratic Republic of the Congo",
+    "industry": "Real Estate Investment Trusts",
+    "employees": 30,
+    "revenue": 8
+  },
+  {
+    "id": 437,
+    "name": "Dazzlesphere",
+    "location": "Sweden",
+    "industry": "n/a",
+    "employees": 40,
+    "revenue": 69
+  },
+  {
+    "id": 438,
+    "name": "Realbuzz",
+    "location": "France",
+    "industry": "n/a",
+    "employees": 57,
+    "revenue": 51
+  },
+  {
+    "id": 439,
+    "name": "Trunyx",
+    "location": "Ukraine",
+    "industry": "Building Materials",
+    "employees": 73,
+    "revenue": 51
+  },
+  {
+    "id": 440,
+    "name": "Flipopia",
+    "location": "Argentina",
+    "industry": "Industrial Specialties",
+    "employees": 82,
+    "revenue": 90
+  },
+  {
+    "id": 441,
+    "name": "Wikido",
+    "location": "Croatia",
+    "industry": "Packaged Foods",
+    "employees": 69,
+    "revenue": 100
+  },
+  {
+    "id": 442,
+    "name": "Skyvu",
+    "location": "South Africa",
+    "industry": "Major Pharmaceuticals",
+    "employees": 60,
+    "revenue": 27
+  },
+  {
+    "id": 443,
+    "name": "Layo",
+    "location": "Serbia",
+    "industry": "Restaurants",
+    "employees": 43,
+    "revenue": 84
+  },
+  {
+    "id": 444,
+    "name": "Cogidoo",
+    "location": "Japan",
+    "industry": "Real Estate Investment Trusts",
+    "employees": 63,
+    "revenue": 34
+  },
+  {
+    "id": 445,
+    "name": "Quamba",
+    "location": "China",
+    "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+    "employees": 67,
+    "revenue": 48
+  },
+  {
+    "id": 446,
+    "name": "Jaxworks",
+    "location": "Portugal",
+    "industry": "Consumer Specialties",
+    "employees": 33,
+    "revenue": 61
+  },
+  {
+    "id": 447,
+    "name": "Roombo",
+    "location": "Ireland",
+    "industry": "Major Pharmaceuticals",
+    "employees": 94,
+    "revenue": 92
+  },
+  {
+    "id": 448,
+    "name": "Realbuzz",
+    "location": "Canada",
+    "industry": "Package Goods/Cosmetics",
+    "employees": 69,
+    "revenue": 87
+  },
+  {
+    "id": 449,
+    "name": "Aimbo",
+    "location": "Peru",
+    "industry": "n/a",
+    "employees": 79,
+    "revenue": 48
+  },
+  {
+    "id": 450,
+    "name": "Voonyx",
+    "location": "Morocco",
+    "industry": "Medical/Dental Instruments",
+    "employees": 88,
+    "revenue": 99
+  },
+  {
+    "id": 451,
+    "name": "Kare",
+    "location": "China",
+    "industry": "n/a",
+    "employees": 52,
+    "revenue": 64
+  },
+  {
+    "id": 452,
+    "name": "Kayveo",
+    "location": "Portugal",
+    "industry": "n/a",
+    "employees": 93,
+    "revenue": 13
+  },
+  {
+    "id": 453,
+    "name": "Feedbug",
+    "location": "Serbia",
+    "industry": "n/a",
+    "employees": 6,
+    "revenue": 36
+  },
+  {
+    "id": 454,
+    "name": "Meemm",
+    "location": "Greece",
+    "industry": "Computer Software: Prepackaged Software",
+    "employees": 100,
+    "revenue": 6
+  },
+  {
+    "id": 455,
+    "name": "Yambee",
+    "location": "Portugal",
+    "industry": "Telecommunications Equipment",
+    "employees": 55,
+    "revenue": 76
+  },
+  {
+    "id": 456,
+    "name": "Aibox",
+    "location": "China",
+    "industry": "General Bldg Contractors - Nonresidential Bldgs",
+    "employees": 81,
+    "revenue": 47
+  },
+  {
+    "id": 457,
+    "name": "Gabcube",
+    "location": "Belarus",
+    "industry": "Business Services",
+    "employees": 69,
+    "revenue": 2
+  },
+  {
+    "id": 458,
+    "name": "Skyvu",
+    "location": "Ukraine",
+    "industry": "n/a",
+    "employees": 84,
+    "revenue": 9
+  },
+  {
+    "id": 459,
+    "name": "Twitternation",
+    "location": "Indonesia",
+    "industry": "Major Banks",
+    "employees": 39,
+    "revenue": 37
+  },
+  {
+    "id": 460,
+    "name": "Skynoodle",
+    "location": "Armenia",
+    "industry": "Consumer Specialties",
+    "employees": 38,
+    "revenue": 100
+  },
+  {
+    "id": 461,
+    "name": "Quatz",
+    "location": "Brazil",
+    "industry": "Major Pharmaceuticals",
+    "employees": 11,
+    "revenue": 79
+  },
+  {
+    "id": 462,
+    "name": "Jaxworks",
+    "location": "Greece",
+    "industry": "n/a",
+    "employees": 9,
+    "revenue": 26
+  },
+  {
+    "id": 463,
+    "name": "Voomm",
+    "location": "China",
+    "industry": "Other Consumer Services",
+    "employees": 79,
+    "revenue": 100
+  },
+  {
+    "id": 464,
+    "name": "Youspan",
+    "location": "Argentina",
+    "industry": "n/a",
+    "employees": 50,
+    "revenue": 19
+  },
+  {
+    "id": 465,
+    "name": "Latz",
+    "location": "Myanmar",
+    "industry": "Natural Gas Distribution",
+    "employees": 62,
+    "revenue": 8
+  },
+  {
+    "id": 466,
+    "name": "Tagfeed",
+    "location": "Nigeria",
+    "industry": "Major Pharmaceuticals",
+    "employees": 16,
+    "revenue": 67
+  },
+  {
+    "id": 467,
+    "name": "Browsezoom",
+    "location": "Democratic Republic of the Congo",
+    "industry": "n/a",
+    "employees": 53,
+    "revenue": 76
+  },
+  {
+    "id": 468,
+    "name": "Skipfire",
+    "location": "Indonesia",
+    "industry": "Department/Specialty Retail Stores",
+    "employees": 86,
+    "revenue": 78
+  },
+  {
+    "id": 469,
+    "name": "Fliptune",
+    "location": "New Caledonia",
+    "industry": "Home Furnishings",
+    "employees": 19,
+    "revenue": 2
+  },
+  {
+    "id": 470,
+    "name": "Trudeo",
+    "location": "Honduras",
+    "industry": "Packaged Foods",
+    "employees": 9,
+    "revenue": 64
+  },
+  {
+    "id": 471,
+    "name": "Brainsphere",
+    "location": "Panama",
+    "industry": "Packaged Foods",
+    "employees": 21,
+    "revenue": 53
+  },
+  {
+    "id": 472,
+    "name": "Dazzlesphere",
+    "location": "Saint Vincent and the Grenadines",
+    "industry": "Office Equipment/Supplies/Services",
+    "employees": 40,
+    "revenue": 3
+  },
+  {
+    "id": 473,
+    "name": "Skyble",
+    "location": "China",
+    "industry": "Multi-Sector Companies",
+    "employees": 25,
+    "revenue": 29
+  },
+  {
+    "id": 474,
+    "name": "Dabshots",
+    "location": "Sierra Leone",
+    "industry": "n/a",
+    "employees": 15,
+    "revenue": 27
+  },
+  {
+    "id": 475,
+    "name": "Twitterlist",
+    "location": "Colombia",
+    "industry": "Major Pharmaceuticals",
+    "employees": 19,
+    "revenue": 32
+  },
+  {
+    "id": 476,
+    "name": "Eimbee",
+    "location": "Portugal",
+    "industry": "Electric Utilities: Central",
+    "employees": 98,
+    "revenue": 89
+  },
+  {
+    "id": 477,
+    "name": "Jazzy",
+    "location": "China",
+    "industry": "n/a",
+    "employees": 11,
+    "revenue": 67
+  },
+  {
+    "id": 478,
+    "name": "Katz",
+    "location": "Croatia",
+    "industry": "n/a",
+    "employees": 31,
+    "revenue": 92
+  },
+  {
+    "id": 479,
+    "name": "Cogilith",
+    "location": "Russia",
+    "industry": "Major Pharmaceuticals",
+    "employees": 79,
+    "revenue": 45
+  },
+  {
+    "id": 480,
+    "name": "Shuffletag",
+    "location": "China",
+    "industry": "Medical/Dental Instruments",
+    "employees": 73,
+    "revenue": 59
+  },
+  {
+    "id": 481,
+    "name": "Izio",
+    "location": "Bosnia and Herzegovina",
+    "industry": "Industrial Machinery/Components",
+    "employees": 27,
+    "revenue": 8
+  },
+  {
+    "id": 482,
+    "name": "Wordpedia",
+    "location": "Peru",
+    "industry": "n/a",
+    "employees": 19,
+    "revenue": 93
+  },
+  {
+    "id": 483,
+    "name": "Eamia",
+    "location": "Russia",
+    "industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances",
+    "employees": 24,
+    "revenue": 20
+  },
+  {
+    "id": 484,
+    "name": "Fadeo",
+    "location": "United States",
+    "industry": "Major Banks",
+    "employees": 15,
+    "revenue": 76
+  },
+  {
+    "id": 485,
+    "name": "Jayo",
+    "location": "Indonesia",
+    "industry": "Real Estate Investment Trusts",
+    "employees": 80,
+    "revenue": 25
+  },
+  {
+    "id": 486,
+    "name": "Tanoodle",
+    "location": "Cameroon",
+    "industry": "Television Services",
+    "employees": 39,
+    "revenue": 67
+  },
+  {
+    "id": 487,
+    "name": "Realcube",
+    "location": "Iran",
+    "industry": "Electric Utilities: Central",
+    "employees": 91,
+    "revenue": 3
+  },
+  {
+    "id": 488,
+    "name": "Kamba",
+    "location": "China",
+    "industry": "n/a",
+    "employees": 25,
+    "revenue": 78
+  },
+  {
+    "id": 489,
+    "name": "Rhynoodle",
+    "location": "China",
+    "industry": "Consumer Specialties",
+    "employees": 83,
+    "revenue": 93
+  },
+  {
+    "id": 490,
+    "name": "Vitz",
+    "location": "Ireland",
+    "industry": "Investment Managers",
+    "employees": 2,
+    "revenue": 84
+  },
+  {
+    "id": 491,
+    "name": "InnoZ",
+    "location": "Tajikistan",
+    "industry": "Medical Specialities",
+    "employees": 35,
+    "revenue": 44
+  },
+  {
+    "id": 492,
+    "name": "Mybuzz",
+    "location": "Moldova",
+    "industry": "Specialty Foods",
+    "employees": 4,
+    "revenue": 66
+  },
+  {
+    "id": 493,
+    "name": "Agivu",
+    "location": "South Africa",
+    "industry": "Military/Government/Technical",
+    "employees": 31,
+    "revenue": 98
+  },
+  {
+    "id": 494,
+    "name": "Photofeed",
+    "location": "Indonesia",
+    "industry": "Integrated oil Companies",
+    "employees": 93,
+    "revenue": 25
+  },
+  {
+    "id": 495,
+    "name": "Devpulse",
+    "location": "Indonesia",
+    "industry": "EDP Services",
+    "employees": 98,
+    "revenue": 63
+  },
+  {
+    "id": 496,
+    "name": "Photobug",
+    "location": "China",
+    "industry": "n/a",
+    "employees": 70,
+    "revenue": 70
+  },
+  {
+    "id": 497,
+    "name": "Agimba",
+    "location": "Indonesia",
+    "industry": "Beverages (Production/Distribution)",
+    "employees": 45,
+    "revenue": 95
+  },
+  {
+    "id": 498,
+    "name": "Kanoodle",
+    "location": "Philippines",
+    "industry": "Farming/Seeds/Milling",
+    "employees": 16,
+    "revenue": 62
+  },
+  {
+    "id": 499,
+    "name": "Dynabox",
+    "location": "Afghanistan",
+    "industry": "Major Banks",
+    "employees": 8,
+    "revenue": 89
+  },
+  {
+    "id": 500,
+    "name": "Yoveo",
+    "location": "Canada",
+    "industry": "Semiconductors",
+    "employees": 34,
+    "revenue": 38
+  }
+]
