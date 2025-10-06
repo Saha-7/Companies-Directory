@@ -52,12 +52,13 @@ function App() {
     if (sortBy === 'name-asc') {
       result.sort((a, b) => a.name.localeCompare(b.name));
     } else if (sortBy === 'name-desc') {
-      result.sort((a, b) => b.name.localeCompare(a.name));
-    } else if (sortBy === 'employees-asc') {
-      result.sort((a, b) => a.employees - b.employees);
-    } else if (sortBy === 'employees-desc') {
-      result.sort((a, b) => b.employees - a.employees);
+      result.sort((a, b) => b.name.localeCompare(a.name)); 
     }
+    // else if (sortBy === 'employees-asc') {
+    //   result.sort((a, b) => a.employees - b.employees);
+    // } else if (sortBy === 'employees-desc') {
+    //   result.sort((a, b) => b.employees - a.employees);
+    // }
 
     setFilteredCompanies(result);
     setCurrentPage(1);

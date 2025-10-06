@@ -14,8 +14,10 @@ function SortDropdown({ sortBy, setSortBy }) {
         <option value="">Default</option>
         <option value="name-asc">Name (A-Z)</option>
         <option value="name-desc">Name (Z-A)</option>
-        <option value="employees-asc">Employees (Low to High)</option>
-        <option value="employees-desc">Employees (High to Low)</option>
+        
+        {/* Removed extra sort options for now */}
+        {/* <option value="employees-asc">Employees (Low to High)</option>
+        <option value="employees-desc">Employees (High to Low)</option> */}
       </select>
     </div>
   );
