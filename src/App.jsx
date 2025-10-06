@@ -1,6 +1,4 @@
 
-
-
 import React, { useState, useEffect } from 'react';
 import Header from './components/Header';
 import FilterSection from './components/FilterSection';
@@ -19,15 +17,22 @@ function App() {
   const [loading, setLoading] = useState(true);
   const itemsPerPage = 50;
 
-  useEffect(() => {
-    fetch('/data/mockData.json')
-    .then(res => res.json())
-    .then(data => {
-      setCompanies(data);
-      setFilteredCompanies(data);
-      setLoading(false);
-    });
-  }, []);
+
+  useEffect(()=>{
+    const fetchData = async()=>{
+      try{
+        const response = await fetch('/data/mockData.json')
+        const data = await response.json()
+        setCompanies(data)
+        setFilteredCompanies(data)
+      }catch(error){
+        console.error("Error fetching data:", error);
+      }finally{
+        setLoading(false)
+      }
+    }
+    fetchData()
+  },[])
 
   const locations = [...new Set(companies.map(company => company.location))].sort();
 
@@ -73,7 +78,7 @@ function App() {
   }
 
   return (
-    <div className="min-h-screen bg-gray-50 py-6 md:py-8 px-4">
+    <div className="min-h-screen bg-gray-200 py-6 md:py-8 px-4">
       <div className="max-w-7xl mx-auto">
         <Header />
         
