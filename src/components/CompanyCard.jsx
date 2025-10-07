@@ -5,7 +5,7 @@ function CompanyCard({ company }) {
     <div className="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
       <div className="flex items-start justify-between mb-3">
         <h3 className="font-semibold text-gray-900 text-lg">{company.name}</h3>
-        <span className="text-xs text-gray-500">#{company.id}</span>
+        {/* <span className="text-xs text-gray-500">#{company.id}</span> */}
       </div>
       
       <div className="space-y-2">
